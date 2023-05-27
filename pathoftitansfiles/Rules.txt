@@ -1,8 +1,9 @@
-<title>DaRules</>
+<title>Quacks v0.1</>
+<large>DaRules</>
 <red>1 - No killing at way stones</>
 <blue>2 - If you report a player in game follow up by submitting a ticket in our discord.</>
 Make sure to have video evidence
 
 
-These are the only rules on this server!
+The rules on this server subject to change at any time.
 <large>Thanks, and have fun!</>

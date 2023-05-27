@@ -1,0 +1,6 @@
+<title>Quacks v0.1</>
+Server restarts every 12 hours
+<blue>We have a kill feed in the discord. Test it out!</>
+<small>If you have any ideas on how to improve the server please let us know on our discord!</>
+
+Thanks and have fun! Join our discord for more info: https://discord.gg/thNH73QhJm
