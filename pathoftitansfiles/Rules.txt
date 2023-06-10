@@ -7,7 +7,7 @@ Make sure to have video evidence
 <yellow>4 - No spamming chat</>
 <orange>5 - No advertising other servers</>
 <red>6 - No hacking or cheating</>
-<blue>7 - NO third partying, If two carnivores not grouped are going after a herbivore then the carnivores must fight over who can attack the herbivore. (A fight must not have happened yet)</>
+<blue>7 - No third partying, If two carnivores not grouped are going after a herbivore then the carnivores must fight over who can attack the herbivore. (A fight must not have happened yet)</>
 
 
 The rules on this server subject to change at any time.
